@@ -1,4 +1,4 @@
-class Atm:
+class ATM:
     def __init__(self):
         self.pin=None
         self.blc=0
